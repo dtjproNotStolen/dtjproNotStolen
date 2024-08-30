@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dtjproNotStolen
+- 👀 I’m interested in programing , game dev and minecraft
+- 🌱 I’m currently learning c++
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I use arch btw
