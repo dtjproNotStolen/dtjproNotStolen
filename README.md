@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dtjproNotStolen
-- 👀 I’m interested in programing , game dev and minecraft
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in programing , game dev and minecraft especially gregtech 
+- 🌱 I’m currently learning react
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch btw
